@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Eduramp training\\.net\\Type Conversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|d:\\eduramp training\\.net\\type conversion\\explicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:explicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|D:\\Eduramp training\\.net\\Type Conversion\\parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|D:\\Eduramp training\\.net\\Type Conversion\\convert_inttodouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:convert_inttodouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|D:\\Eduramp training\\.net\\Type Conversion\\conversiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:conversiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|D:\\Eduramp training\\.net\\Type Conversion\\taskmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:taskmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|D:\\Eduramp training\\.net\\Type Conversion\\\u002Bno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:\u002Bno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|D:\\Eduramp training\\.net\\Type Conversion\\ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|D:\\Eduramp training\\.net\\Type Conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF14525-1228-41AE-9829-8261E1351EE8}|Type Conversion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ifelse.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\ifelse.cs",
+              "RelativeDocumentMoniker": "ifelse.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\ifelse.cs",
+              "RelativeToolTip": "ifelse.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u002BNO.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\\u002BNO.cs",
+              "RelativeDocumentMoniker": "\u002BNO.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\\u002BNO.cs",
+              "RelativeToolTip": "\u002BNO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskMovie.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\TaskMovie.cs",
+              "RelativeDocumentMoniker": "TaskMovie.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\TaskMovie.cs",
+              "RelativeToolTip": "TaskMovie.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conversiondemo.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\conversiondemo.cs",
+              "RelativeDocumentMoniker": "conversiondemo.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\conversiondemo.cs",
+              "RelativeToolTip": "conversiondemo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "convert_inttodouble.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\convert_inttodouble.cs",
+              "RelativeDocumentMoniker": "convert_inttodouble.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\convert_inttodouble.cs",
+              "RelativeToolTip": "convert_inttodouble.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parse.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\Parse.cs",
+              "RelativeDocumentMoniker": "Parse.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\Parse.cs",
+              "RelativeToolTip": "Parse.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Explicit.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\Explicit.cs",
+              "RelativeDocumentMoniker": "Explicit.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\Explicit.cs",
+              "RelativeToolTip": "Explicit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Type Conversion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Type Conversion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:46.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
